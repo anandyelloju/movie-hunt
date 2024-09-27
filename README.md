@@ -3,7 +3,7 @@
 MovieHut is a simple web application built with React.js and Tailwind CSS. It allows users to search for movies and display detailed information, including the movie's title, release date, synopsis, and more, using an external API. This project demonstrates basic API integration, state management, and responsive design using modern frontend technologies.
 
 **Live Demo -** [MovieHut](https://movie-hunt-anand-yellojus-projects.vercel.app/)
-<!--
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
@@ -14,7 +14,7 @@ MovieHut is a simple web application built with React.js and Tailwind CSS. It al
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-
+<!--
 ## Screenshots
 
 ![Homepage](public/UI.png)
