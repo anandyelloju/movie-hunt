@@ -14,11 +14,11 @@ MovieHut is a simple web application built with React.js and Tailwind CSS. It al
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![Homepage](public/UI.png)
-
+<!--
 ## Installation
 
 To set up this project locally, follow these steps:
