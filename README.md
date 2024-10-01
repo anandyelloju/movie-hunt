@@ -18,11 +18,11 @@ MovieHut is a simple web application built with React.js and Tailwind CSS. It al
 ## Screenshots
 
 ![Homepage](public/UI.png)
-<!--
+
 ## Installation
 
 To set up this project locally, follow these steps:
-
+<!--
 1. Clone the repository:
     ```bash
     git clone https://github.com/anandyelloju/movie-hunt.git
