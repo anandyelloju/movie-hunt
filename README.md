@@ -39,7 +39,7 @@ To set up this project locally, follow these steps:
     ```bash
     npm run dev
     ```
-<!--
+
 ## Usage
 
 After installation, you can run the project locally using the development server. The app includes the following features:
@@ -47,7 +47,7 @@ After installation, you can run the project locally using the development server
 - **Search Bar:** Allows users to search for their favorite movies.
 - **Movie Details:** Displays detailed information such as the title, release date, and synopsis.
 - **Responsive Design:** Optimized for various screen sizes.
-
+<!--
 ## Features
 
 - **Movie Search:** Easily search for movies and get detailed information using an API.
