@@ -47,13 +47,13 @@ After installation, you can run the project locally using the development server
 - **Search Bar:** Allows users to search for their favorite movies.
 - **Movie Details:** Displays detailed information such as the title, release date, and synopsis.
 - **Responsive Design:** Optimized for various screen sizes.
-<!--
+
 ## Features
 
 - **Movie Search:** Easily search for movies and get detailed information using an API.
 - **Responsive Design:** Ensures a smooth user experience on both desktop and mobile devices.
 - **API Integration:** Fetches real-time data from a movie API.
-
+<!--
 ## Technologies Used
 
 - **React.js:** JavaScript library for building user interfaces.
