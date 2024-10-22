@@ -53,7 +53,7 @@ After installation, you can run the project locally using the development server
 - **Movie Search:** Easily search for movies and get detailed information using an API.
 - **Responsive Design:** Ensures a smooth user experience on both desktop and mobile devices.
 - **API Integration:** Fetches real-time data from a movie API.
-<!--
+
 ## Technologies Used
 
 - **React.js:** JavaScript library for building user interfaces.
@@ -62,7 +62,7 @@ After installation, you can run the project locally using the development server
 - **External API:** Used to fetch movie data dynamically.
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,api,javascript,html,css,vscode,github)](https://skillicons.dev)
-
+<!--
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
