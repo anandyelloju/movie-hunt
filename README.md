@@ -62,11 +62,11 @@ After installation, you can run the project locally using the development server
 - **External API:** Used to fetch movie data dynamically.
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,api,javascript,html,css,vscode,github)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-
+<!--
 ## Credits
 
 - **React.js:** For providing a powerful framework for building UIs.
