@@ -74,7 +74,7 @@ Contributions are always welcome! - If you have suggestions or improvements.
 - **Vite:** For efficient and fast development.
 - **External API:** For real-time movie data.
 - [Anand Yelloju](https://github.com/anandyelloju) - Project Creator
-<!--
+
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/your-github-username/movie-hut/blob/main/LICENSE) file for details.
